@@ -1,4 +1,4 @@
-# Applied Data Science Capstone
+# IBM Data Science Capstone project
 
 ## Project Title: SpaceX Launch Analysis and Predictive Modeling
 
